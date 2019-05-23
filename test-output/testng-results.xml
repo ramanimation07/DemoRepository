@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27139" started-at="2019-05-18T12:42:50Z" finished-at="2019-05-18T12:43:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27139" started-at="2019-05-18T12:42:50Z" finished-at="2019-05-18T12:43:18Z">
+      <class name="com.driven.test.RediffTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="setUp" is-config="true" duration-ms="6093" started-at="2019-05-18T12:42:51Z" finished-at="2019-05-18T12:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="rediffregtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="rediffregtest" duration-ms="1007" started-at="2019-05-18T12:42:57Z" data-provider="getTestData" finished-at="2019-05-18T12:42:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[101.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ram@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ram@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ram@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.904986337E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffregtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="teardown" is-config="true" duration-ms="681" started-at="2019-05-18T12:42:58Z" finished-at="2019-05-18T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="setUp" is-config="true" duration-ms="4732" started-at="2019-05-18T12:42:59Z" finished-at="2019-05-18T12:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="rediffregtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="rediffregtest" duration-ms="881" started-at="2019-05-18T12:43:03Z" data-provider="getTestData" finished-at="2019-05-18T12:43:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raghul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[102.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rahul@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rahul@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rahul@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.904986337E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffregtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="teardown" is-config="true" duration-ms="742" started-at="2019-05-18T12:43:04Z" finished-at="2019-05-18T12:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="setUp" is-config="true" duration-ms="4634" started-at="2019-05-18T12:43:05Z" finished-at="2019-05-18T12:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="rediffregtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="rediffregtest" duration-ms="883" started-at="2019-05-18T12:43:10Z" data-provider="getTestData" finished-at="2019-05-18T12:43:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajiv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[103.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rajiv@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajiv@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rajiv@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.904986337E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffregtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="teardown" is-config="true" duration-ms="833" started-at="2019-05-18T12:43:11Z" finished-at="2019-05-18T12:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="setUp" is-config="true" duration-ms="4483" started-at="2019-05-18T12:43:11Z" finished-at="2019-05-18T12:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="rediffregtest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="rediffregtest" duration-ms="846" started-at="2019-05-18T12:43:16Z" data-provider="getTestData" finished-at="2019-05-18T12:43:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iswarya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[104.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ish@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ish@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ish@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7.904986337E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffregtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.driven.test.RediffTestNG@6a4f787b]" name="teardown" is-config="true" duration-ms="710" started-at="2019-05-18T12:43:17Z" finished-at="2019-05-18T12:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.driven.test.RediffTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
